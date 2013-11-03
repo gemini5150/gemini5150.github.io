@@ -15,12 +15,14 @@
 
   <script src="js/vendor/custom.modernizr.js"></script>
 
-  <script>    $(function() {
+  <script type="text/javascript">   
+    $(window).load(function() { 
         $(".anyClass").jCarouselLite({
             btnNext: ".next",
             btnPrev: ".prev"
         });
-    });</script>
+    });
+   </script>
 </head>
 <body>
 
