@@ -1,6 +1,7 @@
 body {
   background: url("http://bubblepopinc.com/img/background.png");
   background-size: cover;
+  background-attachment: fixed;
   color: #4A1E75;
 }
 
