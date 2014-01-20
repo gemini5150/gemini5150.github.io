@@ -30,6 +30,10 @@ a {
   text-decoration: none; /* removes underline in link */
 }
 
+a:hover {
+  color: #2795b6;
+}
+
 article {
   max-width: 820px;
   padding: 20px;
