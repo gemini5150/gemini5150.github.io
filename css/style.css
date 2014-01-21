@@ -79,7 +79,7 @@ text-rendering: optimizeLegibility;
 padding: 0px 20px 0px 20px;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 620px) {
   h1 {
     font-size: 36px;
   }
